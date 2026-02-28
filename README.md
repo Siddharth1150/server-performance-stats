@@ -36,20 +36,7 @@ To run this script, you need a Linux environment. This includes:
    ./server-stats.sh
 
 
-
-
-
-
-
-
-
-
-
-
-## EXAMPLE OUTPUT: ##
-
-
-			
+## EXAMPLE OUTPUT: ##			
 ===============================================
           SERVER PERFORMANCE STATS             
 ===============================================
@@ -85,5 +72,3 @@ Load Average: 0.11, 0.14, 0.06
 Logged-in Users: 1
 Failed Login Attempts: 0
 ===============================================
-
-		
